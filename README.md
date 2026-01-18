@@ -55,7 +55,7 @@ I build data-driven solutions using Python and machine learning, focused on solv
 
 ## 📫 Connect With Me
 - Email: puranidvadash@gmail.com  
-- LinkedIn: (add your LinkedIn link)  
+- LinkedIn: https://www.linkedin.com/in/dvadash-purani-96190324b/ 
 
 ---
 
