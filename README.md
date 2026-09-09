@@ -50,7 +50,7 @@ I build data-driven solutions using Python and machine learning, focused on solv
 *Speech-controlled chess system integrating move validation and human-computer interaction.*
 - **Impact:** Developed a custom speech-to-intent pipeline using TensorFlow.
 - **Tech:** TensorFlow, Python, SpeechRecognition
-- [**View Project**](https://github.com/dvadashpurani/YOUR_REPO_NAME)
+- [**View Project**](projects/aiml/Voice -Ai -chess)
 ## 📈 What I’m Learning Now
 - Applied machine learning for business problems
 - Data analysis and visualization best practices
