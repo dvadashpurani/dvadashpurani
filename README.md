@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dvadash 👋</h1>
 
 <p align="center">
-Entry-Level AI Engineer / Data Analyst  
+ AI Engineer 
 </p>
 
 <p align="center">
