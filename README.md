@@ -2,9 +2,9 @@
 
 **MS Artificial Intelligence @ Northeastern University (Khoury College)**
 
-I build systems that turn messy, unstructured input into something structured and useful — and then measure whether they actually work.
+> 🧩 *No problem is too big. It's just a few small problems in a trench coat.*
 
-🌐 **Portfolio, with a demo video for every project:** [dvadash-portfolio.vercel.app](https://dvadash-portfolio.vercel.app/)
+I'm a problem solver at heart. I build systems that turn messy, unstructured input into something structured and useful — and then measure whether they actually work.
 
 ---
 
