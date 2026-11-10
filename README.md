@@ -10,9 +10,9 @@ I'm a problem solver at heart. I build systems that turn messy, unstructured inp
 
 ## 🚀 About Me
 
-- MS in Artificial Intelligence, Northeastern University — Khoury College of Computer Sciences (Sep 2026 – May 2028)
+- MS in Artificial Intelligence, Northeastern University — Khoury College of Computer Sciences (Sep 2026 – Dec 2028)
 - B.Tech Computer Science Engineering, VIT Bhopal (2021 – 2025)
-- Currently: **Student Fellow at the AI Makerspace (Northeastern × Microsoft)**, building AI projects and hosting AI events
+- Currently (since Oct 2026): **Student Fellow at the AI Makerspace (Northeastern × Microsoft)**, building AI projects and hosting AI events
 - Previously: MIS & Data Analyst Intern at Konkem Industries, working on customer segmentation and automated reporting
 - Interested in applied AI, LLM-based systems, computer vision, and the evaluation side of ML
 - Looking for a **Summer 2027 machine learning / AI engineering internship**
