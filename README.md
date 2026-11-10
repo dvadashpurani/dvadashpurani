@@ -97,7 +97,6 @@ I'm a problem solver at heart. I build systems that turn messy, unstructured inp
 
 - Email: <puranidvadash@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/dvadashpurani/>
-- Portfolio: <https://dvadash-portfolio.vercel.app/>
 
 ---
 
